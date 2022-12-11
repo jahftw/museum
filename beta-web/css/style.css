@@ -36,7 +36,7 @@ header{
 }
 .header2{
     display: flex;
-    justify-content: flex-end;
+    justify-content: space-between;
     align-items: center;
     padding: 30px 10%;
     background-color: #24252a;
@@ -139,4 +139,9 @@ button:hover{
     right:120px;
     border-radius: 5px;
     text-decoration: none;
+}
+
+figcaption{
+    margin-bottom: 40px;
+    color: #edf0f1;
 }
