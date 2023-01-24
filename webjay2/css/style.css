@@ -115,6 +115,38 @@ article {
     padding: 20px;
 }
 
+.Abouttitle{
+    padding: 20px;
+    padding-top: 0;
+}
+
+.abouttekst{
+    width: 1000px;
+    padding: 20px;
+    padding-bottom: 90px;
+}
+
+.aboutimg{
+    width: 970px;
+    height: 653px;
+    border-radius: 10px;
+    padding-bottom: 20px;
+
+}
+
+#Barcade{
+    padding: 20px;
+    margin-top: -200px;
+}
+
+#Barcade > h1{
+    padding-bottom: 20px;
+}
+
+.BarcadeTekst{
+    width: 903px;
+}
+
 
 #imageslider {
     width: 1200px;
@@ -419,3 +451,5 @@ ul{
     color: #0088a9;
     background: #FFF;
 }
+
+
