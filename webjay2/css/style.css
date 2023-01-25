@@ -1,8 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
 
 
-
-
 * {
     box-sizing: border-box;
     padding: 0;
@@ -131,7 +129,16 @@ article {
     height: 653px;
     border-radius: 10px;
     padding-bottom: 20px;
+}
 
+section{
+    font-size: 80%;
+}
+
+.garagebox{
+    width: 800px;
+    height: 650px;
+    border-radius: 20px;
 }
 
 #Barcade{
